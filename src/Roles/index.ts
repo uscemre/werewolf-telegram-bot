@@ -18,6 +18,7 @@ import {WiseElder} from "./Villagers/WiseElder";
 import {Detective} from "./Villagers/Detective";
 import {Martyr} from "./Villagers/Martyr";
 import {Sandman} from "./Villagers/Sandman";
+import {Princess} from "./Villagers/Princess";
 
 import {Wolf} from "./WolfTeam/Wolf";
 import {Lycan} from "./WolfTeam/Lycan";
@@ -30,6 +31,7 @@ import {SerialKiller} from "./Others/SerialKiller";
 
 export {
     Seer, Fool, Villager, ClumsyGuy, Cursed, Traitor, WoodMan, Mason, Drunk, Monarch, Harlot, Beholder, ApprenticeSeer,
+    Princess,
 
     Gunner, GuardianAngel, Oracle, WiseElder, Martyr, Detective, Sandman,
   
